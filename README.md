@@ -10,7 +10,12 @@ Shift Baru: E
 Shift KRS: F
 
 # Screenshot Aplikasi
-
+<img src="https://github.com/user-attachments/assets/1167bc2e-5479-4564-803d-7a85a1d8c10e" width="300"> <br> 
+<img src="https://github.com/user-attachments/assets/1e47d6e8-027b-474b-87af-68488451f513" width="300"> <br> 
+<img src="https://github.com/user-attachments/assets/26259945-5ec6-466f-8a09-2ef02f7d4619" width="300"> <br> 
+<img src="https://github.com/user-attachments/assets/f21227e7-055d-4d26-a42c-1f6ecf395123" width="300"> <br> 
+<img src="https://github.com/user-attachments/assets/9c766e2c-ab85-48d5-a963-d4f2b73b53e7" width="300"> <br> 
+<img src="https://github.com/user-attachments/assets/6bddd118-c194-487a-a961-2a1080d944b5" width="300"> <br>
 
 
 # Penjelasan
